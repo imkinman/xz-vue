@@ -11,9 +11,7 @@
 
 ### 启动方式
 1. 安装node环境
-```
-[node下载](https://nodejs.org/zh-cn/)  
-```
+[node下载](https://nodejs.org/zh-cn/)  <br>
 2. 下载项目到本地 <br>
 3. cd到当前目录 <br>
 4. 安装package.json所需依赖包

@@ -26,22 +26,22 @@ npm install
 npm start
 ```
 ### 项目使用条件
- nodejs环境 <br>
- Apache服务器 <br>
- mysql数据库 <br>
+>> nodejs环境 <br>
+>> Apache服务器 <br>
+>> mysql数据库 <br>
 ### 页面所拥有功能如下
-1.登录 <br>
-2.图表页 <br>
-3.商品管理 <br>
-4.用户管理 <br>
-5.订单管理 <br>
-6.页面内容管理 <br>
-7.用户操作推送 <br>
-8.注销
+1. 登录 <br>
+2. 图表页 <br>
+3. 商品管理 <br>
+4. 用户管理 <br>
+5. 订单管理 <br>
+6. 页面内容管理 <br>
+7. 用户操作推送 <br>
+8. 注销
 ### 涉及技术
-vue <br>
-axios <br>
-vue-router <br>
-mysql
+1. vue <br>
+2. axios <br>
+3. vue-router <br>
+4. mysql
 ### 页面效果
 * 首页 

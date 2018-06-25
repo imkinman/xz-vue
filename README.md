@@ -46,3 +46,11 @@ npm start
 ### 页面效果
 * 首页 
 ![登录页面](https://github.com/imkinman/xz-vue/raw/master/preview/login.jpg)
+* 图表页
+![图表页](https://github.com/imkinman/xz-vue/raw/master/preview/index.jpg)
+* 商品列表
+![商品列表](https://github.com/imkinman/xz-vue/raw/master/preview/product-list.jpg)
+* 商品添加
+![商品添加](https://github.com/imkinman/xz-vue/raw/master/preview/product-add.jpg)
+* 用户管理
+![用户管理](https://github.com/imkinman/xz-vue/raw/master/preview/user-list.jpg)

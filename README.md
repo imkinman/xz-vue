@@ -1,21 +1,47 @@
-# tpls
+# 项目描述
+这是一个基于node环境，通过vue-cli编写的VUE PROJECT，拥有登录，图表页，商品管理，用户管理，订单管理，页面内容管理等后台功能
 
-> A Vue.js project
+### 目录结构
+1. /src/assets: ------静态资源文件 <br>
+2. /src/main.js: -----入口文件 <br>
+3. /src/App.vue: -----主路由文件 <br>
+4. /src/router:  -----路由 <br>
+5. /src/components ---页面组件 <br>
+6. /db: --------------数据库和php后台页面 <br>
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+### 启动方式
+1. 安装node环境
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+[node下载](https://nodejs.org/zh-cn/)  
+```
+2. 下载项目到本地 <br>
+3. cd到当前目录 <br>
+4. 安装package.json所需依赖包
+```
+npm install
+```
+5. cd到src目录 <br>
+6. 启动入口文件
+```
+npm start
+```
+### 项目使用条件
+ nodejs环境 <br>
+ Apache服务器 <br>
+ mysql数据库 <br>
+### 页面所拥有功能如下
+1.登录 <br>
+2.图表页 <br>
+3.商品管理 <br>
+4.用户管理 <br>
+5.订单管理 <br>
+6.页面内容管理 <br>
+7.用户操作推送 <br>
+8.注销
+### 涉及技术
+vue <br>
+axios <br>
+vue-router <br>
+mysql
+### 页面效果
+* 首页 

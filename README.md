@@ -45,3 +45,4 @@ npm start
 4. mysql
 ### 页面效果
 * 首页 
+![登录页面](https://github.com/imkinman/xz-vue/master/preview/login.jpg)
